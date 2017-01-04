@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notium</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Extras keys -->
+    <string name="extra_note_text">com.charlag.notium.extra_note_text</string>
+
+    <!-- View names -->
+    <string name="note_textview">NOTE_TEXTVIEW</string>
+</resources>
